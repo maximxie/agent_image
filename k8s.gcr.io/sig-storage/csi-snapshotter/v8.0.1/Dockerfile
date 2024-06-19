@@ -1,0 +1,1 @@
+FROM k8s.gcr.io/sig-storage/csi-snapshotter:v8.0.1
